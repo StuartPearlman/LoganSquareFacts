@@ -1,0 +1,10 @@
+{
+  "intents": [
+    {
+      "intent": "LoganSquareFactIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    }
+  ]
+}

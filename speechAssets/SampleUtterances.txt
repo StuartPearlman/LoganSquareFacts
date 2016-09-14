@@ -1,0 +1,16 @@
+LoganSquareFactIntent a fact
+LoganSquareFactIntent a logan square fact
+LoganSquareFactIntent tell me a fact
+LoganSquareFactIntent tell me a logan square fact
+LoganSquareFactIntent give me a fact
+LoganSquareFactIntent give me a logan square fact
+LoganSquareFactIntent some trivia
+LoganSquareFactIntent some logan square trivia
+LoganSquareFactIntent tell me trivia
+LoganSquareFactIntent tell me logan square trivia
+LoganSquareFactIntent give me trivia
+LoganSquareFactIntent give me logan square trivia
+LoganSquareFactIntent give me some information
+LoganSquareFactIntent give me some logan square information
+LoganSquareFactIntent tell me something
+LoganSquareFactIntent give me something
