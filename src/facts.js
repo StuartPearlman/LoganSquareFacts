@@ -21,5 +21,6 @@ module.exports = [
   "Media organizations making their home in Logan Square include the Community TV Network—a youth media organization—and the Chicago Independent Media Center.",
   "Logan Square is covered by a number of neighborhood news blogs, including Logan Squarist and the I Am Logan Square Blog.",
   "Logan Square is served by three stops on the CTA Blue Line: Western, California, and Logan Square. All three stations provide 24/7 service to either O'Hare International Airport or downtown, the west side, and the near west suburbs.",
-  "According to the 2010 census, 73,595 people live in Logan Square."
+  "According to the 2010 census, 73,595 people live in Logan Square.",
+  "A scary homeless man named Stu lives in Logan Square. If he asks you for spare change, it's customary to throw $0.78 in assorted coins at his face."
 ];
